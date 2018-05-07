@@ -1,0 +1,12 @@
+- name: 'Paris'
+  address: 16 Villa Gaudelet
+  picture: 'https://kitt.lewagon.com/placeholder/cities/paris'
+  user: 'ssaunier'
+- name: 'Berlin'
+  address: 'Alexanderplatz'
+  picture: 'https://kitt.lewagon.com/placeholder/cities/berlin'
+  user: 'papillard'
+- name: 'Tokyo'
+  address: 'City center'
+  picture: 'https://kitt.lewagon.com/placeholder/cities/tokyo'
+  user: 'a-wahl1'
